@@ -63,3 +63,13 @@ Este proyecto fue desarrollado como material educativo para estudiantes de BIT +
 - **LinkedIn:** [Perfil de linkedIn](https://www.linkedin.com/in/duwar-rippe-genesys-ccp/) 
 
 ¡Explora los ejemplos y adapta las soluciones a tus propios proyectos!
+
+
+## Taller
+
+1. Creación de repositorio
+2. Ejecutar el servidor
+<img href="./imgs/imagen1.png">
+3. Prueba ejemplo: Pasan todos los casos de prueba
+<img href="./imgs/imagen2.png">
+4. Prueba ejemplo: Pasan todos los casos de prueba
