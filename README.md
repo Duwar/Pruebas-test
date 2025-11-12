@@ -69,12 +69,12 @@ Este proyecto fue desarrollado como material educativo para estudiantes de BIT +
 
 1. Creación de repositorio
 2. Ejecutar el servidor
-![Logo](imgs/imagen1.PNG)
+<img src="/imgs/imagen1.PNG">
 3. Prueba ejemplo: Pasan todos los casos de prueba
-![Logo](imgs/imagen2.PNG)
+<img src="/imgs/imagen2.PNG">
 4. Prueba ejemplo: No pasan todos los casos de prueba
-![Logo](imgs/imagen3.PNG)
+<img src="/imgs/imagen3.PNG">
 5. Prueba Login: usuario y contraseña correctamente
-![Logo](imgs/imagen4.PNG)
+<img src="/imgs/imagen4.PNG">
 6. Prueba Login: No pasan usuario y contraseña invalida 
-![Logo](imgs/imagen5.PNG)
+<img src="/imgs/imagen5.PNG">
