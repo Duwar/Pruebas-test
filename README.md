@@ -59,7 +59,7 @@
 Este proyecto fue desarrollado como material educativo para estudiantes de BIT +. Si tienes preguntas o sugerencias, no dudes en contactarme.  
 
 - **Autor:** Duwar Alexander Rippe Amaya
-- **GitHub:** [LuisaCastano40](https://github.com/Duwar)  
+- **GitHub:** [Duwar](https://github.com/Duwar)  
 - **LinkedIn:** [Perfil de linkedIn](https://www.linkedin.com/in/duwar-rippe-genesys-ccp/) 
 
 ¡Explora los ejemplos y adapta las soluciones a tus propios proyectos!
@@ -69,7 +69,12 @@ Este proyecto fue desarrollado como material educativo para estudiantes de BIT +
 
 1. Creación de repositorio
 2. Ejecutar el servidor
-<img href="./imgs/imagen1.png">
+![Logo](imgs/imagen1.PNG)
 3. Prueba ejemplo: Pasan todos los casos de prueba
-<img href="./imgs/imagen2.png">
-4. Prueba ejemplo: Pasan todos los casos de prueba
+![Logo](imgs/imagen2.PNG)
+4. Prueba ejemplo: No pasan todos los casos de prueba
+![Logo](imgs/imagen3.PNG)
+5. Prueba Login: usuario y contraseña correctamente
+![Logo](imgs/imagen4.PNG)
+6. Prueba Login: No pasan usuario y contraseña invalida 
+![Logo](imgs/imagen5.PNG)
